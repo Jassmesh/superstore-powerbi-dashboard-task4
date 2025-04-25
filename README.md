@@ -19,7 +19,7 @@ To create a dynamic and visually compelling dashboard that allows business stake
 |------|-------------|
 | `SuperstoreAnalysisDashboard.pbix` | Main Power BI dashboard file |
 | `Sample - Superstore.csv` | Original dataset from Kaggle |
-| `screenshots` | Dashboard visuals for quick view |
+| `SuperstoreAnalysisPPT` | Powerpoint presentation |
 
 ---
 
